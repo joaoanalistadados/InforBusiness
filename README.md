@@ -173,7 +173,7 @@ docs/
 # 📬 Contato
 
 - LinkedIn: https://www.linkedin.com/in/joão-cruz-79837722/
-- GitHub: https://github.com](https://github.com/joaoanalistadados)
+- GitHub: https://github.com](https://github.com/joaoanalistadados/InforBusiness)
 - E-mail: joao.cruz@victoriavirtual.com.br
 
 ---
