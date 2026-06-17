@@ -25,6 +25,8 @@ Com nossa Consultoria em Power BI, criamos dashboards profissionais e indicadore
 
 ✅ Treinamento e Suporte
 
+---
+
 🎯 Tome decisões mais rápidas e assertivas com informações confiáveis e atualizadas.
 
 📈 Reduza o tempo gasto com planilhas e aumente a produtividade da sua equipe.
@@ -114,7 +116,7 @@ Fluxo de Caixa
 
 ---
 
-## 👥 Dashboard RH Analytics
+## 👥 Dashboard Análises de RH
 
 ### Indicadores:
 - Turnover
