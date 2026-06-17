@@ -1,12 +1,13 @@
+<p style="text-align: center"><img width="536" height="224" alt="LogoMarca " src="https://github.com/user-attachments/assets/b3ec85ca-7afd-4e31-8179-8ca9138c611a" /></p>
 
 ![SQL](https://img.shields.io/badge/SQL-Server-blue)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![Python](https://img.shields.io/badge/Python-DataAnalysis-green)
 [![github portfolio-analista-dados](https://img.shields.io/badge/Language-Python|R-orange.svg)](https://github.com/joaoanalistadados/portfolio-analista-dados) 
 ---
-# InforBusiness Consultoria e Análise de Dados <h3>
-# <img width="536" height="224" alt="LogoMarca " src="https://github.com/user-attachments/assets/b3ec85ca-7afd-4e31-8179-8ca9138c611a" />
 
+# CONSULTORIA ESPECIALIZADA EM POWER BI
+# Transforme seus dados em decisões inteligentes!
 
 # Visite o nosso site do <h1> [<img width="202" height="57" alt="logoJulia1" src="https://github.com/user-attachments/assets/c5689532-0327-4894-95e9-167d7629b8fb" />](https://victoriavirtual.com.br/lojavirtual/) 
 
