@@ -9,21 +9,38 @@
 # CONSULTORIA ESPECIALIZADA EM POWER BI
 # Transforme seus dados em decisões inteligentes!
 
-# Visite o nosso site do <h1> [<img width="202" height="57" alt="logoJulia1" src="https://github.com/user-attachments/assets/c5689532-0327-4894-95e9-167d7629b8fb" />](https://victoriavirtual.com.br/lojavirtual/) 
+Sua empresa gera muitos dados, mas você consegue enxergar os resultados de forma clara e rápida?
 
-##  📁 Analista de Dados | 🛢️ SQL | 📊 Power BI | 🐍 Python | 📈 Excel
+Com nossa Consultoria em Power BI, criamos dashboards profissionais e indicadores estratégicos para você acompanhar o desempenho do seu negócio em tempo real.
 
-Profissional com experiência em:
-- Análise de Dados
-- SQL Server
-- Power BI
-- ETL
-- Modelagem de Dados
-- Dashboards Gerenciais
-- Integração de Sistemas
-- Automação de Processos
-- Robos
-  
+✅ Dashboards Gerenciais
+
+✅ Indicadores (KPIs) Personalizados
+
+✅ Integração com Excel, SQL Server, ERP e outros sistemas
+
+✅ Automação de Relatórios
+
+✅ Análises de Vendas, Financeiro, Estoque e RH
+
+✅ Treinamento e Suporte
+
+🎯 Tome decisões mais rápidas e assertivas com informações confiáveis e atualizadas.
+
+📈 Reduza o tempo gasto com planilhas e aumente a produtividade da sua equipe.
+
+---
+
+📞 Solicite uma demonstração gratuita!
+
+***InforBusiness Consultoaria e Análise de Dados***
+
+Consultoria em Power BI e Análise de Dados
+
+📱 WhatsApp: (27) 988472-7921
+
+📧 E-mail: seuemail@empresa.com.br
+
 ---
 
 # 📊 Projetos em Destaque
@@ -151,26 +168,6 @@ datasets/
 excel/
 docs/
 ```
-
----
-
-# 🧠 Principais Competências
-
-- Modelagem de Dados
-- Criação de KPIs
-- ETL
-- Integração de Sistemas
-- Dashboards Executivos
-- Análise Financeira
-- Automação de Relatórios
-- Desenvolvimento e Analise de Sistemas (Delphi, C#, AspNet, PHP, Html, Python, Node)
-
----
-
-# 📄 **Currículo**
-
-* [Curriculo](https://github.com/joaoanalistadados/portfolio-analista-dados/blob/main/AnalistaDadios_%20Jo%C3%A3o%20Cruz.pdf)
-
 ---
 
 # 📬 Contato
@@ -181,6 +178,3 @@ docs/
 
 ---
 
-# ⭐ Objetivo
-
-Demonstrar habilidades técnicas em análise de dados, BI e analista e desenvolvimento de soluções corporativas.
