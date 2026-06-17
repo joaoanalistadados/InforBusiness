@@ -39,7 +39,7 @@ Consultoria em Power BI e Análise de Dados
 
 📱 WhatsApp: (27) 988472-7921
 
-📧 E-mail: seuemail@empresa.com.br
+📧 E-mail: joao.rotas@rotaservicos.com.br
 
 ---
 
