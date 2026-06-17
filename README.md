@@ -157,16 +157,3 @@ Financeiro
 | SSIS - SQL Server Integration Services| Avançado |
 
 ---
-
-# 📂 Estrutura do Projeto
-
-```txt
-dashboards/
-sql/
-python/
-datasets/
-excel/
-docs/
-```
----
-
