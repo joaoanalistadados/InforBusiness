@@ -45,7 +45,7 @@ Consultoria em Power BI e Análise de Dados
 
 # 📊 Projetos em Destaque
 
----
+
 ## 📈 Dashboard SAC - Serviço de Apoio ao Cliente
 
 ### Indicadores:
